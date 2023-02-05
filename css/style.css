@@ -1,4 +1,10 @@
 /* Desarrollo Web 1 */
 /* Nombre Práctica: Hola Mundo */
-/* Autor/a: */
-/* Fecha de elaboración: */
+/* Autor/a: Hugo Corona*/
+/* Fecha de elaboración: 05/02/2023 */
+
+.mx h2{
+position: absolute;
+z-index: 10;
+-webkit-text-stroke: 4px navy;
+}
