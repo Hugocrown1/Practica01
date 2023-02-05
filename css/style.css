@@ -3,9 +3,15 @@
 /* Autor/a: Hugo Corona*/
 /* Fecha de elaboración: 05/02/2023 */
 
-.mx h2{
+
+
+.mx{
+top: 50px;
+right: 0;
+bottom: 0;
+left: 100px;
 position: absolute;
 z-index: 10;
--webkit-text-stroke: 4px navy;
-color: antiquewhite;
+-webkit-text-stroke: 1px navy;
+
 }
