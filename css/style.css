@@ -17,7 +17,7 @@ font-family: 'Noto Serif', serif;
 position: absolute;
 z-index: 100;
 color: #76FF61;
--webkit-text-stroke: 1px rgb(9, 8, 8);
+-webkit-text-stroke: 1px #3bb329;
 
 }
 
@@ -33,7 +33,7 @@ color: #76FF61;
     position: absolute;
     z-index: 10;
     color: #5aa9e6;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #3c88c3;
 }
 
 .jp{
@@ -48,7 +48,7 @@ color: #76FF61;
     position: absolute;
     z-index: 10;
     color: #FF6176;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #d43e52;
 }
 
 .it{
@@ -63,7 +63,7 @@ color: #76FF61;
     position: absolute;
     z-index: 10;
     color: #FFB561;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #ef9b3a;
 }
 
 .hw{
@@ -78,7 +78,7 @@ color: #76FF61;
     position: absolute;
     z-index: 10;
     color: #FF61AB;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #c73579;
 }
 
 .ru{
@@ -93,7 +93,7 @@ color: #76FF61;
     position: absolute;
     z-index: 9;
     color: #61FFB5;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #31c17e;
 }
 
 .ko{
@@ -103,12 +103,12 @@ color: #76FF61;
     left: 350px;
     
     font-size: 55px;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Indie Flower', cursive;
     
     position: absolute;
     z-index: 9;
     color: #FF8161;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #e16444;
 }
 
 .po{
@@ -123,7 +123,7 @@ color: #76FF61;
     position: absolute;
     z-index: 9;
     color: #ABFF61;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #7cce33;
 }
 
 .hi{
@@ -133,12 +133,12 @@ color: #76FF61;
     left: 550px;
     
     font-size: 40px;
-    font-family: 'Arimo', sans-serif;
+    font-family: 'Lobster', cursive;
     
     position: absolute;
     z-index: 9;
     color: #7161ef;
-    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    -webkit-text-stroke: 1px #5746d5;
 }
 
 .he{
