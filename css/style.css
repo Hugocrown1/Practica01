@@ -6,12 +6,16 @@
 
 
 .mx{
-top: 50px;
+top: 150px;
 right: 0;
 bottom: 0;
-left: 100px;
+left: 850px;
+
+font-size: 70px;
+
 position: absolute;
 z-index: 10;
--webkit-text-stroke: 1px navy;
+color: green;
+-webkit-text-stroke: 1px rgb(0, 0, 0);
 
 }
